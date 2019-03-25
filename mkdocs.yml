@@ -1,0 +1,41 @@
+site_name: Hệ thống quan trắc nước tự động
+site_author: Diep Ha
+copyright: Copyright &copy; 2018 <a href="http://www.phuonghai.com">Phuong Hai JSC</a>
+theme:
+  name: 'material'
+  language: vi
+  feature:
+    tabs: true
+  palette:
+    primary: blue
+    accent: blue
+  logo:
+    icon: 'opacity'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
+# Page tree
+nav:
+  - Trang chủ:                        index.md
+  - Cảm biến điện hoá:          
+    - Cảm biến pH:                    electrochemical/pHSensor.md
+    - Cảm biến ORP:                   electrochemical/orp.md
+    - Cảm biến độ dẫn điện:           electrochemical/cond.md 
+    - Cảm biến độ Oxy hoà tan:        electrochemical/do.md 
+  - Cảm biến quang hoá:
+    - Cảm biến COD:                   optical_chemical/cod.md 
+    - Cảm biến TSS:                   optical_chemical/tss.md 
+    - Cảm biến độ đục:                optical_chemical/turbidity.md 
+    - Cảm biến độ màu:                optical_chemical/color.md 
+  - Lưu lượng kênh hở:
+    - Máng Parshall:                  flow_meter/parshall.md 
+    - Máng hình chữ nhật:             flow_meter/rectangle.md 
+    - Máng hình tam giác:             flow_meter/trigle.md                  
+
+
