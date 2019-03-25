@@ -3,7 +3,7 @@ site_author: Diep Ha
 copyright: Copyright &copy; 2018 <a href="http://www.phuonghai.com">Phuong Hai JSC</a>
 theme:
   name: 'material'
-  language: vi
+  language: en
   feature:
     tabs: true
   palette:
