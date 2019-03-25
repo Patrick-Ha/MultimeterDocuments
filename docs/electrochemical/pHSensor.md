@@ -18,7 +18,7 @@ ba-zơ trong nước theo độ chia logarit. Giá trị pH thấp hơn thể hi
 
 Nếu pH của nước quá cao hoặc quá thấp, vi sinh vật sống nước đó sẽ chết. pH cũng có thể ảnh hưởng tới độ hoà tan, độc tố hoá học và kim loại nặng trong nước. Phần lớn sinh vật sống dưới nước ưa thích pH từ 6.5 tới 9.0, mặc dù một số có thể sống trong nước với mức pH ở ngoài khoảng đó.
 
-![ph_levels](/image/ph_levels.jpg)
+![ph_levels](image/ph_levels.jpg)
 
 ## Các loại cảm biến pH
 
@@ -28,7 +28,7 @@ Hầu hết phương pháp đo pH là sử dụng một cảm biến điện ho�
 
 Công nghệ cảm biến pH loại kết hợp có thể được sử dụng để xây dựng các sản phẩm khác nhau, gồm cảm biến pH sử dụng trong phòng thí nghiệm, cảm biến trong công nghiệp.
 
-![ph_sensor](/image/sensorph.png)
+![ph_sensor](image/sensorph.png)
 
 ### Cảm biến pH loại vi sai (Differential pH Sensors)
 
@@ -36,25 +36,25 @@ Cảm biến pH loại vi sai làm việc khác một chút so với cảm biế
 
 Trong thiết kế đó, 2 điện cực đo pH vi sai với một điện cực nối đất thứ 3. Thiết kế này có ưu điểm là ngăn ngừa sai số do điện cực bị bám bẩn.
 
-![ph_sensor_diff](/image/Differential-Electrode-Design.png)
+![ph_sensor_diff](image/Differential-Electrode-Design.png)
 
 ### Cảm biến pH loại dành cho phòng thí nghiệm
 
 Cảm biến pH loại kết hợp với bóng thuỷ tinh 12mm và thân bằng nhựa thông thường được quy vào là loại cảm biến dành cho phòng thí nghiệm. Những cảm biến này làm việc rất tốt trong các ứng dụng nhẹ nhàng như học tập, nghiên cứu, lấy mẫu môi trường thực nghiệm và quan trắc hồ bơi. 
 
-![lab_ph](/image/SENSOREX-0216.jpg)
+![lab_ph](image/SENSOREX-0216.jpg)
 
 ### Cảm biến pH loại công nghiệp
 
 Cảm biến pH loại kết hợp cũng có thể làm lớn hơn, thân cảm biến cứng chắc hơn với các đầu nối (connectors) công nghiệp. Các cảm biến này thường được quy vào là loại cảm biến công nghiệp, chúng rất phù hợp cho những ứng dụng quan trắc pH liên tục. 
 
-![process_ph](/image/S8000-ASSEMBLY_ISOLATED.png)
+![process_ph](image/S8000-ASSEMBLY_ISOLATED.png)
 
 ## Bộ đơn chỉ tiêu SmartpH-01H
 
 Bộ đơn chỉ tiêu SmartpH-01H được sử dụng để đo liên tục giá trị pH của mẫu nước và lập trình được các điều khiển liên quan.
 
-![transmitter](/image/pH_transmitter.png)
+![transmitter](image/pH_transmitter.png)
 
 ### Đặc tính kỹ thuật
 
@@ -78,7 +78,7 @@ Cảm biến pH hoặc ORP là cảm biến điện hoá ngõ ra dạng millivol
 
 * Không được tự ý cắt ngắn hoặc nối dây của cảm biến.
 * Giữ cho đầu dây kết nối với bộ đo pH không bị bụi bám bẩn.
-* Cảm biến pH loại kết hợp cần dung dịch bảo quản, khi không sử dụng cảm biến phải ngâm trong dung dịch bảo quản này. Để khô cảm biến sẽ bị hư. ![](/image/Sensorex-087.png)
+* Cảm biến pH loại kết hợp cần dung dịch bảo quản, khi không sử dụng cảm biến phải ngâm trong dung dịch bảo quản này. Để khô cảm biến sẽ bị hư. ![](image/Sensorex-087.png)
 * Hiệu chuẩn cảm biến mỗi 3 tháng một lần.
 
 Một số lỗi xảy ra:

@@ -16,7 +16,7 @@ Màng thẩm thấu cho phép oxy từ mẫu nước khuếch tán vào cảm bi
 
 Sự tiêu thụ oxy tại cathode tạo ra một áp suất chênh lệch qua màng mà nó làm thay đổi áp suất thực tế của oxy trong mẫu nước. Vì vậy, mật độ oxy tăng lên, áp suất thực tế và tốc độ khuếch tán cũng tăng lên, và dòng điện tạo ra của cảm biến cũng tăng lên tương ứng.
 
-![](/image/galvanic-DO.png)
+![](image/galvanic-DO.png)
 
 ### Cảm biến DO quang
 
@@ -24,7 +24,7 @@ Cảm biến DO quang với các thành phần sau: một loại thuốc nhuộm
 
 Oxy tương tác với sự phát quang của thuốc nhuộm (cường độ và thời gian phát quang). Cảm biến phát ra ánh sáng và tính toán kết quả phát quang với một photodiode. Giá trị đọc được này sẽ được so sánh với giá trị tham chiếu sử dụng ánh sáng có bước sóng khác. Giá trị của phép đo và giá trị tham chiếu được so sánh để tính toán ra độ oxy hoà tan trong mẫu đo.
 
-![](/image/optical-dissolved-oxygen.png)
+![](image/optical-dissolved-oxygen.png)
 
 ## Phân loại cảm biến DO
 

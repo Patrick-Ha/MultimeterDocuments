@@ -12,7 +12,7 @@ Cảm biến độ dẫn điện có tiếp xúc (phân biệt với cảm biế
 
 Cho một điện áp xoay chiều đi qua một bản điện cực của cảm biến và nó sẽ đi qua mẫu dung dịch được đo. Bản điện cực còn lại sẽ nhận tín hiệu đó. Kết quả nhận được sẽ xác định được độ dẫn điện của dung dịch đó và được thể hiện ra giá trị độ dẫn điện theo microsiemens, millisiemens hoặc tổng chất rắn hoà tan (ppm).
 
-![](/image/conductivity.png)
+![](image/conductivity.png)
 
 ### Cảm biến độ dẫn điện vòng xuyến (cảm ứng)
 
@@ -22,7 +22,7 @@ Hệ thống cảm ứng này có thể loại trừ hiệu ứng phân cực m�
 
 Cảm biến vòng xuyến cũng có thể ngăn ngừa việc bám bẩn do cuộn cảm không tiếp xúc với mẫu dung dịch. Vì thế, cảm biến vòng xuyến đã trở thành tiêu chuẩn trong các ứng dụng với độ dẫn điện cao, như là hệ thống xử lý hoá học, các tháp giải nhiệt và quan trắc nước biển.
 
-![](/image/Toroidal-EC-Measurement.png)
+![](image/Toroidal-EC-Measurement.png)
 
 ## Các loại cảm biến độ dẫn điện
 
@@ -39,7 +39,7 @@ K = L/a, với a (area) = A x B
 ```
 Giá trị độ dẫn điện thực tế = độ dẫn điện đo được (G) x hệ số K
 
-![](/image/conductivity3.png)
+![](image/conductivity3.png)
 
 ### Cách lựa chọn hệ số K
 

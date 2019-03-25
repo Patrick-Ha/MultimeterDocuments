@@ -23,7 +23,7 @@ Sử dụng một cảm biến điện hoá đo ORP, cảm biến đó được 
 
 Giống như việc đo pH, việc đo ORP không trực tiếp biểu hiện mật độ, đúng hơn là biểu hiện sự hoạt hoá. Tuy nhiên, trong các dung dịch với một loại hoạt hoá, như hồ bơi có nhiều Clo, ORP có liên quan tới mật độ.
 
-![](/image/orp_sensor.png)
+![](image/orp_sensor.png)
 
 ## Tại sao việc đo ORP lại cần thiết?
 
